@@ -24,6 +24,6 @@
 </div>
 <br />
 
-![Top Langs](https://github-readme-stats-git-master-pstano1.vercel.app/api/top-langs/?username=pstano1&exclude_repo=github-readme-stats&theme=tokyonight&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-git-master-pstano1.vercel.app/api/top-langs/?username=pstano1&exclude_repo=github-readme-stats,salaries-in-data-analysis&theme=tokyonight&layout=compact&langs_count=10)
 
 <hr />
