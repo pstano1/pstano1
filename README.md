@@ -19,6 +19,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' alt='sass' width='30' height='30' />&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg' alt='golang' width='30' height='30' />&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' width='30' height='30' />&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='jupyter' width='30' height='30' />&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt='git' width='30' height='30' />&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' alt='docker' width='30' height='30' />&nbsp;
 </div>
